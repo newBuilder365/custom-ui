@@ -47,7 +47,7 @@
   },
   "dependencies": {
     "antd": "^5.4.2",
-    "custombuild": "^0.0.1",
+    "custombuild": "0.0.2",
     "styled-components": "^5.3.9"
   },
   "devDependencies": {
