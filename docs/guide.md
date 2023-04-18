@@ -1,1 +1,5 @@
-This is a guide example.
+### 安装
+
+```she
+npm install custombuild --save
+```

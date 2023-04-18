@@ -3,7 +3,7 @@
 > 基于`antd`的`Select`组件，后期可能在此基础上更改
 
 ```jsx
-import { Select } from 'custom-ui';
+import { Select } from 'custombuild';
 
 export default () => {
   return (
