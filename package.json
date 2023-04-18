@@ -47,13 +47,15 @@
   },
   "dependencies": {
     "antd": "^5.4.2",
-    "custombuild": "^0.0.1"
+    "custombuild": "^0.0.1",
+    "styled-components": "^5.3.9"
   },
   "devDependencies": {
     "@commitlint/cli": "^17.1.2",
     "@commitlint/config-conventional": "^17.1.0",
     "@types/react": "^18.0.0",
     "@types/react-dom": "^18.0.0",
+    "@types/styled-components": "^5.1.26",
     "@umijs/lint": "^4.0.0",
     "dumi": "^2.0.2",
     "eslint": "^8.23.0",

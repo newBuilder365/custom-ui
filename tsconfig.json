@@ -12,5 +12,5 @@
       "custom-ui/*": ["src/*", "*"]
     }
   },
-  "include": [".dumi/**/*", ".dumirc.ts", "src/**/*"]
+  "include": [".dumi/**/*", ".dumirc.ts", "src/**/*", "declaration.d.ts"]
 }

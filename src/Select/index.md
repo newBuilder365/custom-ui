@@ -8,7 +8,8 @@ import { Select } from 'custombuild';
 export default () => {
   return (
     <Select
-      style={{ width: 120 }}
+      style={{ width: 180 }}
+      mode="multiple"
       options={[
         { value: 'jack', label: 'Jack' },
         { value: 'lucy', label: 'Lucy' },

@@ -9,5 +9,6 @@ export default defineConfig({
   outputPath: 'docs-dist',
   themeConfig: {
     name: 'custom-ui',
+    footer: '基于antd的组件库',
   },
 });
