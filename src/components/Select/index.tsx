@@ -85,7 +85,7 @@ class CSelect extends React.PureComponent<SelectProps, State> {
       return this.setState({ checked }, () => {
         onChange(value, option);
       });
-    this.setState({ value, checked });
+    this.setState({ value });
   };
 
   // 重构下拉菜单，多选时自动添加全选
