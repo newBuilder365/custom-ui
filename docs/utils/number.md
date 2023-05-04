@@ -11,8 +11,8 @@ nav:
 > 用于数字的四舍五入
 
 ```jsx | pure
-import { utils } from 'custombuild';
+import { getFloat } from 'custombuild/utils';
 
-utils.getFloat('2.345');
-utils.getFloat(2.345);
+getFloat('2.345');
+getFloat(2.345);
 ```
